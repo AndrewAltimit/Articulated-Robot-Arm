@@ -1,7 +1,14 @@
-# Robotics I Project #
-* Team #7, DEPHASE
-* Dylan Elliot, Peter Horak, Andrew Showers
-* Description: Our project provides integrated AR tag detection, kinematics, and path planning with collision detection for a Dobot Arm V1.0. It supports a command-line interface for high-level behavior (stacking, searching, pick-and-place, etc.)
+# Articulated Robot Arm #
+Control the Dobot arm to pickup objects, avoid obstacles, and cleanup the workspace.
+
+### Contributors ###
+ * Andrew Showers
+ * Dylan Elliot
+ * Peter Horak
+
+
+### Video Demonstration ###
+See here: https://www.youtube.com/watch?v=BnHcuDm3IqU
 
 ### Interfaces ###
 
@@ -25,7 +32,7 @@
     * **Roadmap.py** - class implementing a probabilistic roadmap for path planning
     * **Simulation.py** - wrapper class to store obstacles and check for collisions
     * **intersect.py** - this module implements triangle-triangle intersection tests
-    * **DobotModel.py** - this module handles the Dobot kinematics
+    * **DobotMode.py** - this module handles the Dobot kinematics
     * **math3D.py** - this module calculates rotation matrices
 * Examples
     * **roadmap_test.py** - example code for using the probabilistic roadmap
@@ -57,4 +64,3 @@
 * DobotModel.test()
 * intersect.test()
 * campose.test()
-
