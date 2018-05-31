@@ -1,5 +1,5 @@
 # Articulated Robot Arm #
-Control the Dobot arm to pickup objects, avoid obstacles, and cleanup the workspace.
+Control the Dobot arm to pickup objects, avoid obstacles, and cleanup the workspace. See the uploaded paper for more information.
 
 ### Contributors ###
  * Andrew Showers
