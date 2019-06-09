@@ -2,9 +2,9 @@
 Control the Dobot arm to pickup objects, avoid obstacles, and cleanup the workspace. See the uploaded paper for more information.
 
 ### Contributors ###
- * Andrew Showers
- * Dylan Elliot
- * Peter Horak
+<a href="https://github.com/AndrewAltimit/Articulated-Robot-Arm/graphs/contributors">
+  <img src="https://contributors-img.firebaseapp.com/image?repo=AndrewAltimit/Articulated-Robot-Arm" />
+</a>
 
 
 ### Video Demonstration ###
